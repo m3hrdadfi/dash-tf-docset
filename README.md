@@ -73,6 +73,5 @@ This code uses some of the functionalities of  [gen_tf_docset](https://github.co
 Copyright (C) 2019, Mehrdad Farahani
 Licensed under the MIT license, see LICENSE file for details.
 
-Copyright (C) 2019, Reuben M
-orais
+Copyright (C) 2019, Reuben Morais
 Licensed under the Mozilla Public License, version 2.0, see LICENSE file for details.
