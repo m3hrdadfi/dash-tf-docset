@@ -73,7 +73,6 @@ This code uses some of the functionalities of  [gen_tf_docset](https://github.co
 Copyright (C) 2019, Mehrdad Farahani
 Licensed under the MIT license, see LICENSE file for details.
 
-This library contains portions of code from django-simple-multitenant:
-
-Copyright (C) 2019, Reuben Morais
+Copyright (C) 2019, Reuben M
+orais
 Licensed under the Mozilla Public License, version 2.0, see LICENSE file for details.
