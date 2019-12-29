@@ -66,7 +66,7 @@ dashing build
 
 ## Credits
 
-This code uses some of the functionalities of  [gen_tf_docset](https://github.com/reuben/gen_tf_docset/) by [Reuben Morais](https://github.com/reuben). I thank the authors for his efforts.
+This code uses some of the functionalities of  [gen_tf_docset](https://github.com/reuben/gen_tf_docset/) by [Reuben Morais](https://github.com/reuben). I thank the author for his efforts.
 
 ## License
 
